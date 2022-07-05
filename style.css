@@ -1,0 +1,35 @@
+*{margin: 0px;
+    padding: 0px;
+
+}
+
+.bigimage{
+    position: relative;
+    background-image: url(images/donation.jpg);
+    background-size: cover;
+
+}
+.bigimage h1{width: 65%;
+        color:white;font-size: 80px;
+        
+    }
+.bigimage p{width: 50%;padding-top: 20px;color:white}
+.toffer{width: 100%;
+    height:800px;
+    font-size:26px;
+    display: flex;
+    color: black;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(0,0,0,0,5);
+
+
+}
+.anchor-tag{text-decoration: none;
+            padding: 10px 20px;
+            background-color: orange;
+            color: white;margin-top: 40px; 
+            border-radius: 7px;
+
+}
