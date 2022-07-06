@@ -33,3 +33,32 @@
             border-radius: 7px;
 
 }
+.donate-today{padding-top: 200px;
+    width: 100%;
+    height:
+    font-size:26px;
+    display: flex;
+    color: black;
+    flex-direction:column;
+    align-items: center;
+    background-color: rgba(0,0,0,0,5);}
+.donate-today h1{padding-bottom: 60px;}   
+.donate{display: flex;
+    text-align: center;
+    width: auto;
+
+}
+
+.donate .donate-amount{
+
+    background: rgb(142, 127, 127);
+    margin: 5px;
+    margin-bottom: 50px;width: 300px;
+    padding: 20px;
+    color: #8e8b8b;
+    position: relative;
+}
+.donate .donate-amount h4{font-size: 80px;
+    margin-top: 50px;
+
+}
